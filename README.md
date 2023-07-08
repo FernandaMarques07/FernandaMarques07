@@ -20,6 +20,6 @@
   <a href="https://www.instagram.com/nandamarxs07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marxsnanda07@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation]([.github/workflows/cobrinha.yml](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FernandaMarques07/FernandaMarques07/blob/output/github-contribution-grid-snake.svg)
 
 </div>
