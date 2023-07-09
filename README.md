@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Fernanda 😁
+## Welcome to Fernanda's profile 😁
 
  <div>
    <a href="https://github.com/FernandaMarques07">
