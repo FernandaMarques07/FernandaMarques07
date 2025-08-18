@@ -1,5 +1,5 @@
 ## Welcome to Fernanda's profile 😁
-<p> Hello, I'm Fernanda, I'm 17 and I'm currently studying at ETEC Albert Einstein to be a web developer!</p>
+<p> Hello, I'm Fernanda, I'm 18 and I'm currently studying at ETEC Albert Einstein to be a web developer!</p>
  <div>
    <a href="https://github.com/FernandaMarques07">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaMarques07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
