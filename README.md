@@ -35,10 +35,10 @@ Hello! I'm **Fernanda**, a passionate web developer who recently graduated from 
 
 
 ## 🌱 Currently Learning
-- **TypeScript** for type-safe JavaScript
-- **Ionic Angular** for mobile development
-- **CSS** animations and frameworks
-- **Backend development** with Node.js and databases
+
+- **Mobile Development:** Ionic + Angular, TypeScript (building hybrid apps)  
+- **Front-end:** HTML, CSS, JavaScript (responsive interfaces and web fundamentals)  
+- **Data:** Data analysis, databases (SQL), data modeling and manipulation  
 
 ## 📂 Projects
 
@@ -59,8 +59,8 @@ Hello! I'm **Fernanda**, a passionate web developer who recently graduated from 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-marques-5827352b6)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nandamarxs07/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanda-marques)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nandamarxs/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marxsnanda07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FernandaMarques07)
 
