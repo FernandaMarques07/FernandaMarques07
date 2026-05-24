@@ -1,4 +1,4 @@
-# 💻 Fernanda Marques - Web Developer
+# 💻 Fernanda Marques - Full Stack Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Web+%26+Mobile+Developer;Creating+user-centered+projects;Always+learning+new+things" alt="Typing SVG" />
@@ -6,22 +6,23 @@
 
 ## 👋 About Me
 
-Hello! I'm **Fernanda**, a passionate web developer who recently graduated from **ETEC Albert Einstein** in Web Development (Informática para Internet). I work with web and mobile development, focusing on creating functional and user-centered projects.
+Hello! I'm **Fernanda**, a passionate full stack developer who graduated from **ETEC Albert Einstein** in Web Development (Informática para Internet). I currently study **Data Science for Business** at **FATEC Sebrae**, combining web, mobile and data-focused development to create functional and user-centered projects.
 
 ## 🛠️ Tech Stack
 
 <div align="center">
   
 ### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3B4252?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-434C5E?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4C566A?style=for-the-badge&logo=python&logoColor=white)
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### **Tools & Technologies**
+![Node.js](https://img.shields.io/badge/Node.js-434C5E?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4C566A?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3B4252?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-434C5E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-4C566A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -39,7 +40,7 @@ Hello! I'm **Fernanda**, a passionate web developer who recently graduated from 
 - **Mobile Development:** Ionic + Angular, TypeScript (building hybrid apps)  
 - **Front-end:** HTML, CSS, JavaScript (responsive interfaces and web fundamentals)  
 - **Data:** Data analysis, databases (SQL), data modeling and manipulation  
-
+  
 ## 📂 Projects
 
 | Project | Description | Technologies | Live Demo |
@@ -47,13 +48,8 @@ Hello! I'm **Fernanda**, a passionate web developer who recently graduated from 
 | [Interactive E-commerce Store](https://github.com/FernandaMarques07/nossasCores) | Web Content Management – school assignment | HTML, CSS, JS | [🌐 Try it](https://fernandamarques07.github.io/nossasCores/) |
 | [Healthcare Appointments](https://github.com/FernandaMarques07/agendamento-sus) | Prototype for an accessible SUS solution | HTML, CSS, JS | [🏥 Try it](https://fernandamarques07.github.io/agendamento-sus/) |
 | [Calculator](https://github.com/FernandaMarques07/calculator) | Interactive calculator with theme toggle | HTML, CSS, JS | [🧮 Try it](https://fernandamarques07.github.io/calculator/) |
+| [Gerenciar Livros](https://github.com/FernandaMarques07/crud-livros-react-node) | Full stack CRUD system for book management with dashboard, statistics and MySQL integration | React, Node.js, Express, Knex, MySQL | 🚧 Local Project |
 
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FernandaMarques07&theme=radical&no-frame=true&row=2&column=4" alt="Fernanda's GitHub Trophies" />
-</p>
 
 ## 📫 Connect With Me
 
