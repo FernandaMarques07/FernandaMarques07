@@ -1,4 +1,4 @@
-# 💻 Fernanda Marques - Full Stack Developer
+# 💻 Fernanda Marques 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Web+%26+Mobile+Developer;Creating+user-centered+projects;Always+learning+new+things" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Fernanda**, a passionate full stack developer who graduated from **ETEC Albert Einstein** in Web Development (Informática para Internet). I currently study **Data Science for Business** at **FATEC Sebrae**, combining web, mobile and data-focused development to create functional and user-centered projects.
+Hello! I'm **Fernanda**, a passionate web developer who graduated from **ETEC Albert Einstein** in Information Technology (Informática para Internet). I currently study **Data Science for Business** (Ciência de Dados para Negócios) at **FATEC Sebrae**, combining web, mobile and data-focused development to create functional and user-centered projects.
 
 ## 🛠️ Tech Stack
 
