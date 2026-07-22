@@ -1,0 +1,79 @@
+<p align="right">
+  <a href="./README.md">🇧🇷 Português</a> | 🇺🇸 English
+</p>
+
+# Fernanda Marques
+
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /> 
+</p>
+
+---
+
+Hello! I have a background in **Web Development** from ETEC Albert Einstein and I am currently studying **Data Science for Business** at FATEC Sebrae. At the moment, I am deepening my skills in **Data Science, Python, and SQL**.
+
+---
+
+## Technologies
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-3B4252?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-434C5E?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-4C566A?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-3B4252?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description | Technologies | Live Demo |
+| :--- | :--- | :--- | :--- |
+| [MemóriaViva](https://github.com/memoriaviva-org/website-memoria-viva) | Institutional website for app download | HTML, CSS, JS | [Try it here](https://memoriaviva-org.github.io/website-memoria-viva/) |
+| [Interactive Paint E-commerce](https://github.com/FernandaMarques07/nossasCores) | Project created for the Web Content Management course – ETEC | HTML, CSS, JS | [Try it here](https://fernandamarques07.github.io/nossasCores/) |
+| [Healthcare Appointments](https://github.com/FernandaMarques07/agendamento-sus) | Prototype for an accessible SUS solution created for the Usability course – ETEC | HTML, CSS, JS | [Try it here](https://fernandamarques07.github.io/agendamento-sus/) |
+| [Calculator](https://github.com/FernandaMarques07/calculator) | Interactive calculator with theme toggle | HTML, CSS, JS | [Try it here](https://fernandamarques07.github.io/calculator/) |
+| [Book Management](https://github.com/FernandaMarques07/crud-livros-react-node) | Full stack CRUD system for book management with dashboard, statistics, and MySQL integration | React, Node.js, Express, Knex, MySQL | 🚧 Local Project |
+
+---
+
+## Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marxsnanda07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanda-marques)
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 💜
+
+<br>
+
+<a href="https://github.com/FernandaMarques07">
+  <img src="https://komarev.com/ghpvc/?username=FernandaMarques07&color=ff69b4&style=flat-square">
+</a>
+
+<a href="https://github.com/FernandaMarques07?tab=followers">
+  <img src="https://img.shields.io/github/followers/FernandaMarques07?style=flat-square">
+</a>
+
+</div>
