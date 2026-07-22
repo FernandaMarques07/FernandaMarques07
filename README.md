@@ -1,73 +1,79 @@
-# 💻 Fernanda Marques 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Web+%26+Mobile+Developer;Creating+user-centered+projects;Always+learning+new+things" alt="Typing SVG" />
+<p align="right">
+  🇧🇷 Português | <a href="./README.en.md">🇺🇸 English</a>
 </p>
 
-## 👋 About Me
+# Fernanda Marques
 
-Hello! I'm **Fernanda**, a passionate web developer who graduated from **ETEC Albert Einstein** in Information Technology (Informática para Internet). I currently study **Data Science for Business** (Ciência de Dados para Negócios) at **FATEC Sebrae**, combining web, mobile and data-focused development to create functional and user-centered projects.
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Bem-Vindo(a)+ao+meu+perfil!" alt="Typing SVG" /> 
+</p>
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
-  
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-3B4252?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-434C5E?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4C566A?style=for-the-badge&logo=python&logoColor=white)
+Olá! Sou formada em **Informática para Internet** pela ETEC Albert Einstein e atualmente curso **Ciência de Dados para Negócios** na FATEC Sebrae. No momento, estou aprofundando meus conhecimentos em **Ciência de Dados, Python e SQL**.
 
-### **Tools & Technologies**
-![Node.js](https://img.shields.io/badge/Node.js-434C5E?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4C566A?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3B4252?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-434C5E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-4C566A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
-</div>
+## Tecnologias
 
-## 📊 GitHub Stats
+### Linguagens
 
-<div align="center">
-  
-![Fernanda's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FernandaMarques07&theme=radical)
-  
-</div>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-3B4252?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-434C5E?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-4C566A?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-3B4252?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
+### Banco de Dados
 
-## 🌱 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</p>
 
-- **Mobile Development:** Ionic + Angular, TypeScript (building hybrid apps)  
-- **Front-end:** HTML, CSS, JavaScript (responsive interfaces and web fundamentals)  
-- **Data:** Data analysis, databases (SQL), data modeling and manipulation  
-  
-## 📂 Projects
+### Ferramentas
 
-| Project | Description | Technologies | Live Demo |
-|---------|-------------|--------------|-----------|
-| [Website MemóriaViva](https://github.com/memoriaviva-org/website-memoria-viva) | Website institucional para download de aplicativo | HTML, CSS, JS | [🧠 Try it](https://memoriaviva-org.github.io/website-memoria-viva/) |
-| [Interactive E-commerce Store](https://github.com/FernandaMarques07/nossasCores) | Web Content Management – school assignment | HTML, CSS, JS | [🌐 Try it](https://fernandamarques07.github.io/nossasCores/) |
-| [Healthcare Appointments](https://github.com/FernandaMarques07/agendamento-sus) | Prototype for an accessible SUS solution | HTML, CSS, JS | [🏥 Try it](https://fernandamarques07.github.io/agendamento-sus/) |
-| [Calculator](https://github.com/FernandaMarques07/calculator) | Interactive calculator with theme toggle | HTML, CSS, JS | [🧮 Try it](https://fernandamarques07.github.io/calculator/) |
-| [Gerenciar Livros](https://github.com/FernandaMarques07/crud-livros-react-node) | Full stack CRUD system for book management with dashboard, statistics and MySQL integration | React, Node.js, Express, Knex, MySQL | 🚧 Local Project |
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
+---
 
-## 📫 Connect With Me
+## Projetos em destaque
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanda-marques)
+| Projeto | Descrição | Tecnologias | Demonstração |
+| :--- | :--- | :--- | :--- |
+| [MemóriaViva](https://github.com/memoriaviva-org/website-memoria-viva) | Website institucional para download de aplicativo | HTML, CSS, JS | [Acesse aqui](https://memoriaviva-org.github.io/website-memoria-viva/) |
+| [Loja Virtual de Tintas Interativa](https://github.com/FernandaMarques07/nossasCores) | Projeto produzido para a matéria de Gestão de Conteúdo Web – ETEC Albert Einstein | HTML, CSS, JS | [Acesse aqui](https://fernandamarques07.github.io/nossasCores/) |
+| [Agendamento de Consultas](https://github.com/FernandaMarques07/agendamento-sus) | Protótipo para uma solução acessível produzida para a matéria de Usabilidade - ETEC | HTML, CSS, JS | [Acesse aqui](https://fernandamarques07.github.io/agendamento-sus/) |
+| [Calculadora](https://github.com/FernandaMarques07/calculator) | Calculadora interativa com alternância de tema | HTML, CSS, JS | [Acesse aqui](https://fernandamarques07.github.io/calculator/) |
+| [Gerenciar Livros](https://github.com/FernandaMarques07/crud-livros-react-node) | Sistema CRUD para gerenciamento de livros com painel, estatísticas e integração MySQL | React, Node.js, Express, Knex, MySQL | 🚧 Projeto Local |
+
+---
+
+## Contato
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marxsnanda07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FernandaMarques07)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanda-marques)
 
 ---
 
 <div align="center">
-  
-<p>Thanks for visiting my profile! Have a great day! 😄</p>
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=FernandaMarques07&color=FF69B4&style=flat-square)
+
+### Agradeço a visita! 💜
+
+<br>
+
+<a href="https://github.com/FernandaMarques07">
+  <img src="https://komarev.com/ghpvc/?username=FernandaMarques07&color=ff69b4&style=flat-square">
+</a>
+
+<a href="https://github.com/FernandaMarques07?tab=followers">
+  <img src="https://img.shields.io/github/followers/FernandaMarques07?style=flat-square">
+</a>
 
 </div>
