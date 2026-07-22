@@ -1,14 +1,11 @@
-<p align="right">
-  🇧🇷 Português | <a href="./README.en.md">🇺🇸 English</a>
-</p>
+<div align="right">
+
+[![Português](https://img.shields.io/badge/Português_🇧🇷-ff69b4?style=flat)](#)
+[![English](https://img.shields.io/badge/English_🇺🇸-777777?style=flat)](./README.en.md)
+
+</div>
 
 # Fernanda Marques
-
-<p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Bem-Vindo(a)+ao+meu+perfil!" alt="Typing SVG" /> 
-</p>
-
----
 
 Olá! Sou formada em **Informática para Internet** pela ETEC Albert Einstein e atualmente curso **Ciência de Dados para Negócios** na FATEC Sebrae. No momento, estou aprofundando meus conhecimentos em **Ciência de Dados, Python e SQL**.
 
@@ -47,11 +44,11 @@ Olá! Sou formada em **Informática para Internet** pela ETEC Albert Einstein e 
 
 | Projeto | Descrição | Tecnologias | Demonstração |
 | :--- | :--- | :--- | :--- |
-| [MemóriaViva](https://github.com/memoriaviva-org/website-memoria-viva) | Website institucional para download de aplicativo | HTML, CSS, JS | [Acesse aqui](https://memoriaviva-org.github.io/website-memoria-viva/) |
+| [MemóriaViva](https://github.com/memoriaviva-org/website-memoria-viva) | Website institucional para download de aplicativo do meu TCC | HTML, CSS, JS | [Acesse aqui](https://memoriaviva-org.github.io/website-memoria-viva/) |
 | [Loja Virtual de Tintas Interativa](https://github.com/FernandaMarques07/nossasCores) | Projeto produzido para a matéria de Gestão de Conteúdo Web – ETEC Albert Einstein | HTML, CSS, JS | [Acesse aqui](https://fernandamarques07.github.io/nossasCores/) |
 | [Agendamento de Consultas](https://github.com/FernandaMarques07/agendamento-sus) | Protótipo para uma solução acessível produzida para a matéria de Usabilidade - ETEC | HTML, CSS, JS | [Acesse aqui](https://fernandamarques07.github.io/agendamento-sus/) |
 | [Calculadora](https://github.com/FernandaMarques07/calculator) | Calculadora interativa com alternância de tema | HTML, CSS, JS | [Acesse aqui](https://fernandamarques07.github.io/calculator/) |
-| [Gerenciar Livros](https://github.com/FernandaMarques07/crud-livros-react-node) | Sistema CRUD para gerenciamento de livros com painel, estatísticas e integração MySQL | React, Node.js, Express, Knex, MySQL | 🚧 Projeto Local |
+| [Gerenciar Livros](https://github.com/FernandaMarques07/crud-livros-react-node) | Sistema CRUD para gerenciamento de livros com painel, estatísticas e integração MySQL | React, Node.js, MySQL | 🚧 Projeto Local |
 
 ---
 

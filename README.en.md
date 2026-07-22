@@ -1,14 +1,12 @@
-<p align="right">
-  <a href="./README.md">🇧🇷 Português</a> | 🇺🇸 English
-</p>
+
+<div align="right">
+
+[![Português](https://img.shields.io/badge/Português_🇧🇷-777777?style=flat)](./README.md)
+[![English](https://img.shields.io/badge/English_🇺🇸-ff69b4?style=flat)](#)
+
+</div>
 
 # Fernanda Marques
-
-<p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /> 
-</p>
-
----
 
 Hello! I have a background in **Web Development** from ETEC Albert Einstein and I am currently studying **Data Science for Business** at FATEC Sebrae. At the moment, I am deepening my skills in **Data Science, Python, and SQL**.
 
@@ -47,11 +45,11 @@ Hello! I have a background in **Web Development** from ETEC Albert Einstein and 
 
 | Project | Description | Technologies | Live Demo |
 | :--- | :--- | :--- | :--- |
-| [MemóriaViva](https://github.com/memoriaviva-org/website-memoria-viva) | Institutional website for app download | HTML, CSS, JS | [Try it here](https://memoriaviva-org.github.io/website-memoria-viva/) |
+| [MemóriaViva](https://github.com/memoriaviva-org/website-memoria-viva) | Institutional website for downloading my ETEC capstone project app | HTML, CSS, JS | [Try it here](https://memoriaviva-org.github.io/website-memoria-viva/) |
 | [Interactive Paint E-commerce](https://github.com/FernandaMarques07/nossasCores) | Project created for the Web Content Management course – ETEC | HTML, CSS, JS | [Try it here](https://fernandamarques07.github.io/nossasCores/) |
 | [Healthcare Appointments](https://github.com/FernandaMarques07/agendamento-sus) | Prototype for an accessible SUS solution created for the Usability course – ETEC | HTML, CSS, JS | [Try it here](https://fernandamarques07.github.io/agendamento-sus/) |
 | [Calculator](https://github.com/FernandaMarques07/calculator) | Interactive calculator with theme toggle | HTML, CSS, JS | [Try it here](https://fernandamarques07.github.io/calculator/) |
-| [Book Management](https://github.com/FernandaMarques07/crud-livros-react-node) | Full stack CRUD system for book management with dashboard, statistics, and MySQL integration | React, Node.js, Express, Knex, MySQL | 🚧 Local Project |
+| [Book Management](https://github.com/FernandaMarques07/crud-livros-react-node) | Full stack CRUD system for book management with dashboard, statistics, and MySQL integration | React, Node.js, MySQL | 🚧 Local Project |
 
 ---
 
