@@ -44,11 +44,12 @@ Olá! Sou formada em **Informática para Internet** pela ETEC Albert Einstein e 
 
 | Projeto | Descrição | Tecnologias | Demonstração |
 | :--- | :--- | :--- | :--- |
+| [TempoCerto](https://github.com/nanda-marques/previsao-tempo-projeto) | Aplicação web de previsão do tempo em tempo real com interface responsiva.  | Python, Laravel | [Acesse aqui](https://tempocerto.great-site.net/weather) |
 | [MemóriaViva](https://github.com/memoriaviva-org/website-memoria-viva) | Website institucional para download de aplicativo do meu TCC | HTML, CSS, JS | [Acesse aqui](https://memoriaviva-org.github.io/website-memoria-viva/) |
-| [Loja Virtual de Tintas Interativa](https://github.com/FernandaMarques07/nossasCores) | Projeto produzido para a matéria de Gestão de Conteúdo Web – ETEC Albert Einstein | HTML, CSS, JS | [Acesse aqui](https://fernandamarques07.github.io/nossasCores/) |
-| [Agendamento de Consultas](https://github.com/FernandaMarques07/agendamento-sus) | Protótipo para uma solução acessível produzida para a matéria de Usabilidade - ETEC | HTML, CSS, JS | [Acesse aqui](https://fernandamarques07.github.io/agendamento-sus/) |
-| [Calculadora](https://github.com/FernandaMarques07/calculator) | Calculadora interativa com alternância de tema | HTML, CSS, JS | [Acesse aqui](https://fernandamarques07.github.io/calculator/) |
-| [Gerenciar Livros](https://github.com/FernandaMarques07/crud-livros-react-node) | Sistema CRUD para gerenciamento de livros com painel, estatísticas e integração MySQL | React, Node.js, MySQL | 🚧 Projeto Local |
+| [Loja Virtual de Tintas Interativa](https://github.com/nanda-marques/nossasCores) | Projeto produzido para a matéria de Gestão de Conteúdo Web – ETEC Albert Einstein | HTML, CSS, JS, MySQL | [Acesse aqui](https://nanda-marques.github.io/nossasCores/) |
+| [Agendamento de Consultas](https://github.com/nanda-marques/agendamento-sus) | Protótipo para uma solução acessível produzida para a matéria de Usabilidade - ETEC | HTML, CSS, JS | [Acesse aqui](https://nanda-marques.github.io/agendamento-sus/) |
+| [Gerenciar Livros](https://github.com/nanda-marques/crud-livros-react-node) | Sistema CRUD para gerenciamento de livros com painel, estatísticas e integração MySQL | React, Node.js, MySQL | 🚧 Projeto Local |
+
 
 ---
 
@@ -58,19 +59,3 @@ Olá! Sou formada em **Informática para Internet** pela ETEC Albert Einstein e 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanda-marques)
 
 ---
-
-<div align="center">
-
-### Agradeço a visita! 💜
-
-<br>
-
-<a href="https://github.com/FernandaMarques07">
-  <img src="https://komarev.com/ghpvc/?username=FernandaMarques07&color=ff69b4&style=flat-square">
-</a>
-
-<a href="https://github.com/FernandaMarques07?tab=followers">
-  <img src="https://img.shields.io/github/followers/FernandaMarques07?style=flat-square">
-</a>
-
-</div>
